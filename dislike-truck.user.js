@@ -19,7 +19,7 @@
 
 $(function() {
 
-  var CLIENT_ID = '526753214326-9rahh7ks717f5j455rmf0f53ja4k14b9.apps.googleusercontent.com',
+  var CLIENT_ID = '526753214326-7nr06ap7s1h839rgg4riqi8mcbaj9lmg.apps.googleusercontent.com',
       API_KEY = 'AIzaSyCIElFlaaAEqJm0RFcNy9gYQlqaGzD5Zpo',
       SCOPES = 'https://www.googleapis.com/auth/youtube',
       PER_PAGE = 50,
